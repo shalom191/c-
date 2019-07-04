@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<"hello shalom"<<"\n";
+		cout<<"this is IIHT "<<"\n";
+	cout<<"i have finshed on c language"<<"\n";
+	cout<<"i came at 4:14"<<"\n";
+	return 0;
+}
